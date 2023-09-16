@@ -15,12 +15,12 @@
   <tr>
     <th align="left"> LÊ CHÍ THÀNH </th>
     <th align="left"> 20521912 </th>
-    <th align="left"> <a href="20521912@gm.uit.edu.vn" >21521007@gm.uit.edu.vn</a> </th>
+    <th align="left"> <a href="20521912@gm.uit.edu.vn" >20521912@gm.uit.edu.vn</a> </th>
   </tr>
   <tr>
     <th align="left"> Vương Vĩnh Thuận </th>
     <th align="left"> 20521997 </th>
-    <th align="left"> <a href="20521997@gm.uit.edu.vn" >21520456@gm.uit.edu.vn</a> </th>
+    <th align="left"> <a href="20521997@gm.uit.edu.vn" >20521997@gm.uit.edu.vn</a> </th>
   </tr>
 </table>
 <h2> Chủ đề </h2>
