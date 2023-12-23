@@ -27,9 +27,11 @@
 <ul>
   <li> Computational Graph </li>
 </ul>
-<h2> Link Socrative </h2>
+<h2> Thông tin </h2>
 <ul>
-
+<li>Slides: Slides thuyết trình trên lớp</li>
+<li>Lý thuyết Computational Graph: Bài giảng chi tiết</li>
+<li>Bài tập Computational Graph (có đáp án): Ôn tập và có đáp án chi tiết</li>
 </ul>
 <h2> References </h2>
 <ul>
@@ -40,9 +42,15 @@
 <a href="https://github.com/VKT123/CS523.N21.KHCL/blob/main/References/Introduction.to.Algorithms.4th.Edition.2022.4.pdf">Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, Introduction to Algorithms-4th-Edition, MIT Press: từ trang 957-1002 </a>
 </li>
 <li>
-
+<a href="https://www.geeksforgeeks.org/computational-graphs-in-deep-learning/">https://www.geeksforgeeks.org/computational-graphs-in-deep-learning/ </a>
 </li>
 <li>
-
+<a href="https://nttuan8.com/bai-2-autograd/#Backward">https://nttuan8.com/bai-2-autograd/#Backward </a>
 </li>
+<li>
+<a href="https://www.youtube.com/watch?v=zIBhOKXQOXU&t=1s">https://www.youtube.com/watch?v=zIBhOKXQOXU&t=1s </a>
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=yFcpYyCEA5Y">https://www.youtube.com/watch?v=yFcpYyCEA5Y </a>
+</li> 
 </ul>
